@@ -1,0 +1,33 @@
+1-  5 reds
+2-  6 reds
+3-  7 reds
+4-  4 reds, 1 blue, 4 reds
+5-  [5 reds, 5 reds(Shield)] iterados
+6-  [6 reds, 6 reds(Shield)] iterados
+7-  [3 red, 1 blue]*3, 3 reds
+8-  50 reds
+9-  [3 red, 1 blue]*4, 3 reds
+10- [8 reds, 8 blue] iterados
+11- [green, red, blue, red]*3 +[red, blue, red]*2
+12- [5 reds, 5 blue, 5 reds(shield), 5 blue(shield)] iterados
+13- 
+14-
+15-
+16- 60 reds(shield)
+17- 20 aereos
+18-
+19-
+20-
+21- 
+22-
+23-
+24- 60 blues
+25- 20 negros
+26-
+27-
+28-
+29-
+30-
+31-
+32- 30 greens
+33- 20 invisibles
